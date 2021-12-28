@@ -1,5 +1,5 @@
 hey.
-im 'karlheinz-stockhausen'.
+im 'karlheinz-stockhausen', but my nickname on github is krona.
 im a composer aswell as a conlanger.
 i'll be posting some of my stuff here sooner rather than later.
 cheers!

@@ -1,8 +1,8 @@
 hey.
 im 'karlheinz-stockhausen'.
-im a composer aswell as a conlanger
-i'll be posting some of my stuff here sooner rather than later
-yea
+im a composer aswell as a conlanger.
+i'll be posting some of my stuff here sooner rather than later.
+cheers!
 
 <!---
 karlheinz-stockhausen/karlheinz-stockhausen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

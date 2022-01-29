@@ -46,7 +46,7 @@ by repeating the final letter of the di/trigraph. However, specifically for /d̠
 
 VOWELS
 
-There are 17 vowel phonemes in Agar.
+There are 16 vowel phonemes in Agar.
 
 /i/, /i:/, /y:/ /u/, /u:/
 /e:/, /ø:/, /o/
@@ -55,6 +55,21 @@ There are 17 vowel phonemes in Agar.
 /a/, /ɑ/, /ɒ:/
 
 ---
+Like most Uralic languages, there is vowel harmony.
+
+FRONT
+
+/y:/, /ø:/, /œ/, /œ:/
+
+NEUTRAL
+
+/i/, /i:/, /ɛ/, /ɛ:/, /e:/, /a/, /ɑ/, /æ/
+
+BACK
+
+/u/, /u:/, /o/, /ɒ:/
+
+However, there are several consonants that can block vowel harmony, which are <l>, <lj>, <y>, (TBA later)
 
 ORTHOGRAPHY
 

@@ -46,7 +46,7 @@ PRIVATIVE
 
 Opposite of the genetive - lacking something.
 
-[F] -ek [M] - ik [B] -uk
+[F] -ek [M] -ik [B] -uk
 
 -
 
@@ -67,7 +67,7 @@ LOCATIVE
 
 Indicating a location
 
-[F] -nek [M] -nyik [B] -ok
+[F] -nük [M] -nyik [B] -a̖k
 
 -
 
@@ -75,7 +75,7 @@ ADESSIVE
 
 Indicating that the noun [usually a subject] is at an adjacent location to the object
 
-[F] -re [M] -rig [B] -or
+[F] -rü [M] -rig [B] -a̖r
 
 -
 
@@ -83,18 +83,39 @@ INESSIVE
 
 Indicating that the noun is inside something, i.e the man is inside the house
 
-[F] -ara, -ra, [M] -reg [B] - -rul
+[F] -ürő, -ra*, [M] -reg [B] - -rul
+
+* - When noun ends with vowel, use -<ra>
 
 SUPERESSIVE
 
+Indicating that the noun is on the object - in Agar, it is used for either of the 2 cases: Ontop of, and On the noun being marked.
+
+[F] -őn [M] -in [B] -a̖m
+
+-
+
 ----
+
 MOVEMENT FROM
 
 ~
 
 ABLATIVE
 
+Indicating movement away from the noun marked
+
+[F] -őrő [N] -ira [B] -a̖rú
+
+-
+
 DELATIVE
+
+Indicating movement from a surface to something
+
+[F] -nol [N] -néc [B] -úc
+
+-
 
 ELATIVE
 
@@ -104,6 +125,12 @@ MOVEMENT TO
 ~
 
 ALLATIVE
+
+-kir
+
+This is one of the few cases in Agar that has no distinction between front & back categories.
+
+-
 
 ILLATIVE
 

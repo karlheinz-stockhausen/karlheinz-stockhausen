@@ -2,7 +2,8 @@ GRAMMAR
 The grammar... oh god.
 Let's just start with Agar's pronouns. I like pronouns, and you should too!
 
-Agar is surprisingly regular with how to construct pronouns.
+Agar is surprisingly regular with how to construct pronouns. Similar to Finnish, there is no distinct male or female 1st person pronoun - they are both covered
+by the pronoun <hán>. However, there is a non binary pronoun that was invented in the early 2000s, <hánacse k>
 
 TDL im lazy lol
 
@@ -83,9 +84,8 @@ INESSIVE
 
 Indicating that the noun is inside something, i.e the man is inside the house
 
-[F] -ürő, -ra*, [M] -reg [B] - -rul
+[F] -ürő [M] -reg [B] - -rul
 
-* - When noun ends with vowel, use -<ra>
 
 SUPERESSIVE
 
@@ -119,6 +119,9 @@ Indicating movement from a surface to something
 
 ELATIVE
 
+Moving out of something
+
+[F] -gol [M] -nibb
 ----
 MOVEMENT TO
 
@@ -126,10 +129,7 @@ MOVEMENT TO
 
 ALLATIVE
 
--kir
-
-This is one of the few cases in Agar that has no distinction between front & back categories.
-
+[F] 
 -
 
 ILLATIVE
